@@ -166,13 +166,13 @@
         <mxCell id="lSpn9x8to274P1ykeCi2-45" value="Isla 2 venta de combustible" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lSpn9x8to274P1ykeCi2-54">
           <mxGeometry x="10" y="10" width="130" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="lSpn9x8to274P1ykeCi2-56" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="lSpn9x8to274P1ykeCi2-56" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=light-dark(#f5ff3b, #ededed);" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1620" y="20" as="sourcePoint" />
             <mxPoint x="1620" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSpn9x8to274P1ykeCi2-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="lSpn9x8to274P1ykeCi2-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=light-dark(#f5ff3b, #ededed);" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1620" y="120" as="sourcePoint" />
             <mxPoint x="1620" y="200" as="targetPoint" />
